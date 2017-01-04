@@ -1,0 +1,2 @@
+inherit_gem:
+  gatemedia_rubocop: config/.rubocop.2.3.yml
